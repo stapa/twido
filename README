@@ -1,0 +1,7 @@
+Project installation:
+1. Download project trunk.
+2. Run "mvn package" in root of project.
+3. Copy file "target/twido-1.0.war" into your application container (e.g. apache-tomcat-7.0.22/webapps/)
+4. Set system property "org.apache.el.parser.SKIP_IDENTIFIER_CHECK=true"
+5. Restart application container.
+6. Go to url "http://localhost:8080/twido-1.0/"

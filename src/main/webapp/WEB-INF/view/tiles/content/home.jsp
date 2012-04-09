@@ -1,0 +1,5 @@
+<%@ page contentType="text/html; charset=utf-8" %>
+<%@ taglib uri="http://www.springframework.org/tags" prefix="spring" %>
+
+<h2><spring:message code="home" /></h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer elementum tincidunt odio, quis malesuada sem sagittis vitae. Aenean convallis bibendum porta. Nulla facilisi. Aenean nibh nisl, aliquet et dignissim eget, vestibulum vitae dui. Nulla facilisi. Nulla gravida sollicitudin ligula id pharetra. Suspendisse potenti. Nam consequat scelerisque vehicula. Proin mattis pellentesque nulla, nec suscipit justo dictum ac. Proin convallis libero sed nisl dictum volutpat in eget ligula. Praesent congue ultrices erat vitae laoreet. Vestibulum ornare scelerisque diam, a iaculis nunc pretium laoreet. Nullam imperdiet sem at mauris sagittis non sodales elit consequat. Morbi a enim sapien. Phasellus ullamcorper, nulla eget mollis sagittis, sapien tellus adipiscing tortor, et blandit magna tellus nec enim.</p>
